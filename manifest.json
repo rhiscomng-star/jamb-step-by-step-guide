@@ -1,0 +1,16 @@
+{
+  "short_name": "JAMB Guide",
+  "name": "JAMB 2026 Step-by-Step Registration Guide",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2232/2232688.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#15803d",
+  "background_color": "#ffffff"
+}
