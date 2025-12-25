@@ -1,0 +1,8 @@
+{
+  "name": "Copy of JAMB 2026 Registration Guide",
+  "description": "A comprehensive, step-by-step guide for candidates registering for the 2026 JAMB UTME/DE examinations, featuring video tutorials and accredited center lookups.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
